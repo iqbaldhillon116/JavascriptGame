@@ -1,0 +1,19 @@
+.card{
+  background-image: url(download.jpg);
+  border: 4px solid red;
+  height: 200px;
+  width: 200px ;
+
+}
+ 
+th{
+  font-size: 35px;
+  background-color: black;
+  color: white;
+}
+
+
+cardImage:{
+  width: 200px;
+  height: 200px;
+}
